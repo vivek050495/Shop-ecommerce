@@ -5,6 +5,11 @@
  margin-top: 20px;;
 }
 
+.common_container{
+    min-height:600px;
+}
+
+
 .owl-next{
  float:right;
 }
